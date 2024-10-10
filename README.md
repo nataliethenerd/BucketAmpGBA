@@ -1,10 +1,15 @@
 # Bucket Amp GBA
 Bucket Mouse's sound amplifier from the MGBC adapted to the stock AGB. This mod replaces the original AGB AMP for better sound rather than add a boost to a dated design.
 
+![Screenshot 2024-10-11 022328](https://github.com/user-attachments/assets/89aa125a-5ff9-4591-87ec-3adbf3b112ce)
+
+
+### Sound comparison
+
+https://github.com/user-attachments/assets/438286ae-2291-4fdf-b0a3-08fefcfd73e3
 
 
 [Link to Bucket Mouse's MGBC](https://github.com/MouseBiteLabs/Game-Boy-Pocket-Color)
-
 
 
 Big shout out to the Mouse for all he does for the community
@@ -14,13 +19,16 @@ Big shout out to the Mouse for all he does for the community
 NOTE: You are responsible if you f*ck it up. This board requires micro soldering.
 
 **Remove the following parts**
+![back of agb](https://github.com/user-attachments/assets/97289667-1fa0-49d0-8714-43bf13bcaacd)
+
+![front of agb](https://github.com/user-attachments/assets/6a4e182f-17bc-40f1-a2b6-55c18a361ec5)
 
 
 **Install the board, soldering to the points it aligns to**
 
-![install]
+![solderguide](https://github.com/user-attachments/assets/838fc9d1-fee9-4425-bcfe-9c4fc9edbbf4)
 
-
+Solder the speaker to the round pads marked - and +
 
 # IBOM
 [Interactive BOM](https://nataliethenerd.github.io/bucketampagb.html)
