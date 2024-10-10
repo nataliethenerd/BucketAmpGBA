@@ -31,7 +31,7 @@ NOTE: You are responsible if you f*ck it up. This board requires micro soldering
 Solder the speaker to the round pads marked - and +
 
 # IBOM
-[Interactive BOM](https://nataliethenerd.github.io/bucketampagb.html)
+[Interactive BOM](https://nataliethenerd.github.io/bucketampgba.html)
 
 # License
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
