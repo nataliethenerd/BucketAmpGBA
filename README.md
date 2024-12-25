@@ -23,6 +23,11 @@ NOTE: You are responsible if you f*ck it up. This board requires micro soldering
 
 ![front of agb](https://github.com/user-attachments/assets/6a4e182f-17bc-40f1-a2b6-55c18a361ec5)
 
+You will need to solder to each of these narrow pins seperatly so I recommend putting kapton tap on the other pins 
+
+![image](https://github.com/user-attachments/assets/bc2d97b0-1df8-444c-9f02-ad14c8bf3ed2)
+
+
 
 **Install the board, soldering to the points it aligns to**
 
