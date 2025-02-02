@@ -37,7 +37,12 @@ Solder the speaker to the round pads marked - and +
 
 # Troubleshooting
 
-If the sound is low or only one channel, you need to a new volume wheel
+[assets/PXL_20250202_051804841.jpg
+](https://github.com/nataliethenerd/BucketAmpGBA/blob/2035c3e99edef5cec8aee76773e26e0c8d036881/assets/PXL_20250202_051804841.jpg)
+
+- Please note that the two thin pads next to [5V] are seperate, do not bridge these
+
+- If the sound is low or only one channel, you need to a new volume wheel
 
 
 # IBOM
