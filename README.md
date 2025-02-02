@@ -35,6 +35,11 @@ You will need to solder to each of these narrow pins seperatly so I recommend pu
 
 Solder the speaker to the round pads marked - and +
 
+# Troubleshooting
+
+If the sound is low or only one channel, you need to a new volume wheel
+
+
 # IBOM
 [Interactive BOM](https://nataliethenerd.github.io/bucketampgba.html)
 
