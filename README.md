@@ -16,7 +16,9 @@ Big shout out to the Mouse for all he does for the community
 ![bless that damn Mouse](https://github.com/nataliethenerd/BucketAmpGBC/blob/fee6840abdf5c8f2eb51dc8cb9f447cd14d5d62a/assets/blesshim.png)
 
 # Install Guide
-## NOTE: You are responsible if you f*ck it up. This board requires micro soldering. ##
+
+## NOTE: You are responsible if you f*ck it up. This board requires micro soldering and understanding what you are doing ##
+
 
 **Remove the following parts**
 ![back of agb](https://github.com/user-attachments/assets/97289667-1fa0-49d0-8714-43bf13bcaacd)
